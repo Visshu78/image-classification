@@ -1,10 +1,10 @@
-# 🧠 Image Classification using Convolutional Neural Networks (CNN)
+#  Image Classification using Convolutional Neural Networks (CNN)
 
 This project demonstrates how to build an image classification model using a Convolutional Neural Network (CNN) with TensorFlow and Keras. It classifies images into categories based on features learned from the data.
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 - `Image_classification.ipynb` – Main Jupyter notebook with full code.
 - `requirements.txt` – Python libraries used in the project.
@@ -12,7 +12,7 @@ This project demonstrates how to build an image classification model using a Con
 
 ---
 
-## 🚀 What the Project Does
+##  What the Project Does
 
 - Loads and processes image data using `ImageDataGenerator`.
 - Builds a CNN with layers like `Conv2D`, `MaxPooling2D`, `Dropout`, and `Dense`.
@@ -21,7 +21,7 @@ This project demonstrates how to build an image classification model using a Con
 
 ---
 
-## 📌 Technologies Used
+##  Technologies Used
 
 - **Language:** Python
 - **Libraries:** TensorFlow, Keras, NumPy, Matplotlib
@@ -31,7 +31,7 @@ This project demonstrates how to build an image classification model using a Con
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/image-classification-cnn.git
